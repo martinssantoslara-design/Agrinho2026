@@ -1,0 +1,19 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+body{
+    font-family: sans-serif;
+    background-color: red;
+    color:white;
+}
+
+header{
+    background-color: pink;
+    padding:0 100;
+}
+
+footer{
+        background-color: greenyellow;
+}
